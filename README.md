@@ -1,67 +1,50 @@
-<!-- HEADER -->
 <h1 align="center">Carlos Mendoza</h1>
 
 <p align="center">
-  <b>Full-Stack Engineer • Systems Designer • Problem Solver</b>
+  Full-Stack Engineer • QA Engineer • Product-Minded Systems Thinker
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=I+build+scalable+systems;I+turn+complexity+into+clarity;I+design+solutions+that+actually+work" />
+  I build reliable systems, uncover critical issues, and design solutions that scale in real-world environments.
 </p>
 
 ---
 
-## 🧠 Who I Am
+## About
 
-I build systems that **scale, make sense, and solve real problems**.
+I work at the intersection of engineering, quality, UI/UX, and product thinking to build systems that are reliable, scalable, and intuitive to use.
 
-Not just writing code — I focus on:
-- Understanding the **real issue**
-- Designing the **right solution**
-- Making it **simple to use and explain**
+My approach is centered on identifying underlying problems, designing practical solutions, and ensuring systems deliver real value in production.
 
----
-
-## ⚡ What I'm Building
-
-### 🧱 Page Designer
-A modular UI builder designed for flexibility and scale  
-→ Dynamic layouts  
-→ Reusable components  
-→ Built for real-world use cases  
-
-### 🎨 Scalable Design System
-A component-driven architecture that ensures:
-- Consistency  
-- Reusability  
-- Maintainability  
+I specialize in:
+- Identifying high-impact issues in complex systems  
+- Designing solutions that address root causes, not symptoms  
+- Improving system reliability and developer workflows  
+- Designing intuitive user experiences that reduce friction and improve usability  
+- Bridging technical and non-technical understanding  
 
 ---
 
-## 🧩 What Makes Me Different
+## Current Focus
 
-- 🔍 I find problems others miss  
-- 🧠 I design solutions that actually work in production  
-- 🧱 I turn complexity into structured systems  
-- 🗣 I explain technical ideas in a way anyone understands  
-- 🔄 I bridge the gap between product, business, and engineering  
+- Developing a modular Page Designer with scalable architecture
+- Building a reusable design system for consistent UI development
+- Improving system reliability, performance, and developer experience
 
 ---
 
-## 🤖 AI-Augmented Engineering
+## Core Strengths
 
-I actively leverage AI to **accelerate development and problem-solving**, while maintaining:
-
-- 🔐 Strong awareness of **security and data boundaries**
-- 🧠 Human validation for **accuracy and reliability**
-- 🧩 Structured workflows that integrate AI into **real engineering processes**
-- ⚖️ Best practices to avoid over-reliance or unsafe usage  
-
-AI is a tool — I use it to **move faster without compromising quality**.
+- System-level debugging and root cause analysis  
+- Designing robust, production-ready solutions  
+- Improving reliability in complex workflows and architectures  
+- Translating technical challenges into clear, actionable solutions  
+- Applying product thinking to prioritize impact and usability  
+- AI-assisted development with strong attention to security and best practices  
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,mongodb,postgres,graphql,docker,aws,git" />
@@ -69,62 +52,9 @@ AI is a tool — I use it to **move faster without compromising quality**.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
-## 🚀 Selected Work
-
-- 🧱 **Page Designer**  
-  Modular UI builder focused on scalability and flexibility  
-
-- 🎨 **Design System**  
-  Reusable components powering consistent interfaces  
-
-- ⚙️ **Automation Systems**  
-  Tools that reduce friction and improve workflows  
-
----
-
-## 🧪 Currently Exploring
-
-- Advanced component architectures  
-- System scalability patterns  
-- Developer experience (DX) improvements  
-- AI-assisted development workflows  
-
----
-
-## 🌐 Connect
+## Contact
 
 <p align="center">
   <a href="https://linkedin.com/in/carlosdmendoza99">LinkedIn</a> •
-  <a href="mailto:your@email.com">Email</a>
-</p>
-
----
-
-## ⚡ Philosophy
-
-<p align="center">
-  <i>
-    Find the problem → Build the solution → Make it simple
-  </i>
-</p>
-
----
-
-<p align="center">
-  ⭐️ Follow if you're into building systems that actually make sense
+  <a href="mailto:carlosdmendoza99@gmail.com">carlosdmendoza99@gmail.com</a>
 </p>
