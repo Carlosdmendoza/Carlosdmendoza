@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Carlosdmendoza/Carlosdmendoza/main/banner.png" />
+</p>
+
 <h1 align="center">Carlos Mendoza</h1>
 
 <p align="center">
@@ -16,20 +20,36 @@ I work at the intersection of engineering, quality, UI/UX, and product thinking 
 
 My approach is centered on identifying underlying problems, designing practical solutions, and ensuring systems deliver real value in production.
 
-I specialize in:
+---
+
+## Core Expertise
+
+<table>
+<tr>
+<td width="50%">
+
 - Identifying high-impact issues in complex systems  
-- Designing solutions that address root causes, not symptoms  
-- Improving system reliability and developer workflows  
-- Designing intuitive user experiences that reduce friction and improve usability  
+- Root cause analysis and solution design  
+- System reliability and workflow optimization  
+
+</td>
+<td width="50%">
+
+- Designing intuitive user experiences that reduce friction  
+- Building clear and consistent interfaces  
 - Bridging technical and non-technical understanding  
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Current Focus
 
-- Developing a modular Page Designer with scalable architecture
-- Building a reusable design system for consistent UI development
-- Improving system reliability, performance, and developer experience
+- Developing a modular Page Designer with scalable architecture  
+- Building a reusable design system for consistent UI development  
+- Improving system reliability, performance, and developer experience  
 
 ---
 
@@ -55,6 +75,6 @@ I specialize in:
 ## Contact
 
 <p align="center">
-  <a href="https://linkedin.com/in/carlosdmendoza99">LinkedIn</a> •
-  <a href="mailto:carlosdmendoza99@gmail.com">carlosdmendoza99@gmail.com</a>
+  <a href="https://linkedin.com/in/carlosdmendoza99"><b>LinkedIn</b></a> •
+  <a href="mailto:carlosdmendoza99@gmail.com"><b>Email</b></a>
 </p>
