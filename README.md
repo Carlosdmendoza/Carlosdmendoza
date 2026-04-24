@@ -124,3 +124,7 @@ AI is a tool — I use it to **move faster without compromising quality**.
 </p>
 
 ---
+
+<p align="center">
+  ⭐️ Follow if you're into building systems that actually make sense
+</p>
